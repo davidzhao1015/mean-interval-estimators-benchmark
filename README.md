@@ -8,3 +8,5 @@ This notebook benchmarks three statistical methods for estimating confidence int
   - z-distribution method
   - Bootstrap percentile method
 - **Approach**: Simulate data, apply methods, and compare performance across varying sample sizes and skewness.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidzhao1015/mean-interval-estimators-benchmark/HEAD?urlpath=%2Fdoc%2Ftree%2Finterval-estimate-mean-benchmark_20250509_DZ.ipynb)
