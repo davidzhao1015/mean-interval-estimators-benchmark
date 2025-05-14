@@ -30,10 +30,10 @@ This notebook examines how different CI methods perform under these challenging 
 ---
 
 ## 📂 Repository Structure
-/ (root)
-├── interval-estimate-mean-benchmark.ipynb   # Main notebook
-├── requirements.txt                         # Project dependencies (numpy, scipy, pandas, seaborn, matplotlib, tqdm)
-├── README.md                                # Project description & usage guide
+/ (root)  
+├── interval-estimate-mean-benchmark.ipynb   # Main notebook  
+├── requirements.txt                         # Project dependencies (numpy, scipy, pandas, seaborn, matplotlib, tqdm)  
+├── README.md                                # Project description & usage guide  
 
 ---
 
